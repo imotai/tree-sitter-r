@@ -1,5 +1,5 @@
 [package]
-name = "tree-sitter-r"
+name = "devgen-tree-sitter-r"
 description = "R grammar for the tree-sitter parsing library"
 version = "0.21.0"
 authors = [
@@ -8,7 +8,7 @@ authors = [
 license = "MIT"
 keywords = ["incremental", "parsing", "R"]
 categories = ["parsing", "text-editors"]
-repository = "https://github.com/r-lib/tree-sitter-r"
+repository = "https://github.com/imotai/tree-sitter-r.git"
 edition = "2018"
 
 build = "bindings/rust/build.rs"
